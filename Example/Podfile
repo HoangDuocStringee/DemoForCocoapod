@@ -1,4 +1,4 @@
-use_frameworks!
+#use_frameworks!
 
 target 'DemoForCocoapod_Example' do
   pod 'DemoForCocoapod', :path => '../'

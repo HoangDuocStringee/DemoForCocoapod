@@ -1,0 +1,1 @@
+../../../../../../DemoForCocoapod/Classes/Stringee.framework/Versions/A/Headers/StringeeRoomStreamConfig.h

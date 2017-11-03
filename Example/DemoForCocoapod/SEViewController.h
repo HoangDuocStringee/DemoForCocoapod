@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+#import <Stringee/Stringee.h>
 
 @interface SEViewController : UIViewController
 
